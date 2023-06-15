@@ -1,0 +1,3 @@
+this is the content we adding
+this is second line adding to file
+new line to file1
